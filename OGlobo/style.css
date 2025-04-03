@@ -1,0 +1,177 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.branding {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+.first {
+    height: 2px;
+    margin-bottom: 15px;
+    background-color: #ebedefa1;
+    border: none;
+}
+
+.topics {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -5px;
+}
+
+.topics a {
+    height: 18px;
+    text-decoration: none;
+    font-family: "Encode Sans", sans-serif;
+    font-size: 12pt;
+    font-weight: 750;
+}
+
+.content {
+    margin-top: 32px;
+    margin-left: 30px;
+}
+
+.news-1 {
+    width: 624px;
+    height: 201px;
+}
+
+.news-1 a{
+    text-decoration: none;
+    font-family: "Encode Sans", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #C4160C;
+}
+
+.news-1 p {
+    font-family: "Encode Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #303134;
+    margin-top: 30px;
+    line-height: 30px;
+}
+
+.second {
+    width: 620px;
+    height: 2px;
+    background-color: #ebedefa1;
+    border: none;
+    margin-left: -1px;
+}
+
+.small-news1 {
+    margin-top: 45px;
+    width: 630px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+figure {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Encode Sans", sans-serif;
+}
+
+a h1 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #C4170C;
+    margin-top: 8px;
+}
+
+a h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2F3134;
+    margin-top: 10px;
+    width: 200px;
+    line-height: 25px;
+}
+
+a p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #2F3134;
+    margin-top: 12px;
+    width: 190px;
+    line-height: 19px;
+}
+
+.small-news2 {
+    display: flex;
+    margin-top: 30px;
+}
+
+.small-news2 article {
+    margin-right: 10px;
+}
+
+.small-news2 h2 {
+    width: 210px;
+}
+
+.small-news2 p {
+    width: 200px;
+}
+
+.vertical {
+    width: 2px;
+    height: 845px;
+    border: none;
+    background-color: #ebedefa1;
+    margin-left: 675px;
+    margin-top: -825px;
+}
+
+aside {
+    margin-left: 720px;
+    margin-top: -860px;
+}
+
+aside figure{
+    margin-bottom: 50px;
+}
+
+aside h1 {
+    color: #16AE54;
+}
+
+aside h2 {
+    width: 250px;
+}
+
+aside p {
+    width: 240px;
+}
+
+aside figure img{
+    width: 240px;
+    height: 128px;
+    border-radius: 12px;
+}
+
+.column2 {
+    margin-left: 300px;
+    margin-top: -890px;
+}
+
+.column2 figure {
+    margin-bottom: 60px;
+}
+
+.column2 h1 {
+    color: #EC8006;
+}
