@@ -1,4 +1,4 @@
-# Clone da página O Globo
+# Clone da página O Globo 📰
 Este projeto é um clone da página inicial do site O Globo, desenvolvido utilizando apenas HTML e CSS. O design foi replicado conforme o layout fornecido no curso da Driven Education.
 
 ## 🚀 Tecnologias Utilizadas
