@@ -3,11 +3,11 @@ Este projeto é um clone da página inicial do site O Globo, desenvolvido utiliz
 
 ## 🚀 Tecnologias Utilizadas
 
-. HTML5
+- HTML5
 
-. CSS3
+- CSS3
 
-. Google Fonts (Encode Sans)
+- Google Fonts (Encode Sans)
 
 ## 📌 Requisitos do Projeto
 
