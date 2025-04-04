@@ -1,25 +1,30 @@
-# Clone da página O Globo 📰
-Este projeto é um clone da página inicial do site O Globo, desenvolvido utilizando apenas HTML e CSS. O design foi replicado conforme o layout fornecido no curso da Driven Education.
+# OGlobo - Driven Bootcamp 📰
 
-## 🚀 Tecnologias Utilizadas
+## Descrição 📝
+Projeto desenvolvido durante o curso da Driven, simulando uma página do site OGlobo. O foco foi a prática de HTML e CSS para estruturar e estilizar um site baseado em um layout existente.  
 
-- HTML5
+## Tecnologias Utilizadas 🛠️
+- HTML5  
+- CSS3  
+- Google Fonts  
+- Git e GitHub  
 
-- CSS3
+## Funcionalidades 🚀
+- Estrutura baseada no design do site OGlobo  
+- Barra de navegação fixa  
+- Seção de notícias com imagens e descrições  
+- Layout fixo sem responsividade  
 
-- Google Fonts (Encode Sans)
-
-## 📌 Requisitos do Projeto
-
-Seguir o layout do Figma fornecido.
-
-Respeitar todas as dimensões e cores especificadas pelo designer.
-
-Utilizar a fonte Encode Sans importada via Google Fonts.
-
-Todas as manchetes e imagens devem ser links.
-
-Utilizar border-radius para imagens com bordas arredondadas.
-
-Pequenas variações no layout são permitidas, desde que mantenham a identidade visual.
-
+## Estrutura de Arquivos 📂
+```bash
+/
+├── index.html # Estrutura principal do site
+├── reset.css # Reset de estilos
+├── style.css # Estilização geral e responsividade
+├── /assets # Imagens e ícones utilizados no projeto
+└── README.md
+```
+## Melhorias Futuras 🔮
+- Adição de responsividade com Media Queries  
+- Implementação de interatividade com JavaScript  
+- Ajustes na estrutura para melhor escalabilidade
